@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "cstdio": "cpp",
+        "list": "cpp"
+    }
+}
